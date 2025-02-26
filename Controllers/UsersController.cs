@@ -100,7 +100,6 @@ namespace CdnFreelancerApi.Controllers
                 return BadRequest("Username, email, and password are required.");
             }
 
-            // Check if user already exists
             userDto.Email = userDto.Email.ToLower();
             var existingUser = await _context.Users.AnyAsync(u => u.Email == userDto.Email);
             if (existingUser)
@@ -124,7 +123,6 @@ namespace CdnFreelancerApi.Controllers
 
             _cache.Remove("Users_Page1_Size10");
 
-            // Remove sensitive data before returning
             var userResponse = new
             {
                 id = user.Id,

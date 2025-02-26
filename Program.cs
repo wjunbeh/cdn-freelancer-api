@@ -6,7 +6,6 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.Configuration.AddJsonFile("appsettings.json", optional: false, reloadOnChange: true);
 
-// Add services to the container.
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
@@ -19,15 +18,12 @@ builder.Services.AddDbContext<ApplicationDbContext>(options =>
 
 var app = builder.Build();
 
-// Enable Swagger UI
 app.UseSwagger();
 app.UseSwaggerUI();
     
-// Configure middleware
 app.UseHttpsRedirection();
-app.UseAuthorization(); // Ensure authentication is enabled if required
+app.UseAuthorization(); 
 
-// Ensure API controllers are mapped
 app.MapControllers();
 
 app.Run();

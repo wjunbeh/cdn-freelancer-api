@@ -1,57 +1,61 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\CdnFreelancerApi\\",
+  "WorkspaceRootPath": "D:\\flutter3x\\NewbieGuide\\cdn-freelancer-api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F9520B21-1634-BB81-B6AC-E37D4D93A0EC}|CdnFreelancerApi.csproj|c:\\users\\user\\cdnfreelancerapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9520B21-1634-BB81-B6AC-E37D4D93A0EC}|CdnFreelancerApi.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9520B21-1634-BB81-B6AC-E37D4D93A0EC}|CdnFreelancerApi.csproj|c:\\users\\user\\cdnfreelancerapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9520B21-1634-BB81-B6AC-E37D4D93A0EC}|CdnFreelancerApi.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9520B21-1634-BB81-B6AC-E37D4D93A0EC}|CdnFreelancerApi.csproj|c:\\users\\user\\cdnfreelancerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F9520B21-1634-BB81-B6AC-E37D4D93A0EC}|CdnFreelancerApi.csproj|d:\\flutter3x\\newbieguide\\cdn-freelancer-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F9520B21-1634-BB81-B6AC-E37D4D93A0EC}|CdnFreelancerApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9520B21-1634-BB81-B6AC-E37D4D93A0EC}|CdnFreelancerApi.csproj|c:\\users\\user\\cdnfreelancerapi\\models\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F9520B21-1634-BB81-B6AC-E37D4D93A0EC}|CdnFreelancerApi.csproj|d:\\flutter3x\\newbieguide\\cdn-freelancer-api\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{F9520B21-1634-BB81-B6AC-E37D4D93A0EC}|CdnFreelancerApi.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9520B21-1634-BB81-B6AC-E37D4D93A0EC}|CdnFreelancerApi.csproj|d:\\flutter3x\\newbieguide\\cdn-freelancer-api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9520B21-1634-BB81-B6AC-E37D4D93A0EC}|CdnFreelancerApi.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9520B21-1634-BB81-B6AC-E37D4D93A0EC}|CdnFreelancerApi.csproj|d:\\flutter3x\\newbieguide\\cdn-freelancer-api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9520B21-1634-BB81-B6AC-E37D4D93A0EC}|CdnFreelancerApi.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9520B21-1634-BB81-B6AC-E37D4D93A0EC}|CdnFreelancerApi.csproj|d:\\flutter3x\\newbieguide\\cdn-freelancer-api\\models\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F9520B21-1634-BB81-B6AC-E37D4D93A0EC}|CdnFreelancerApi.csproj|solutionrelative:models\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9520B21-1634-BB81-B6AC-E37D4D93A0EC}|CdnFreelancerApi.csproj|c:\\users\\user\\cdnfreelancerapi\\models\\dtos\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F9520B21-1634-BB81-B6AC-E37D4D93A0EC}|CdnFreelancerApi.csproj|d:\\flutter3x\\newbieguide\\cdn-freelancer-api\\models\\dtos\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F9520B21-1634-BB81-B6AC-E37D4D93A0EC}|CdnFreelancerApi.csproj|solutionrelative:models\\dtos\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9520B21-1634-BB81-B6AC-E37D4D93A0EC}|CdnFreelancerApi.csproj|c:\\users\\user\\cdnfreelancerapi\\models\\dtos\\registeruserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F9520B21-1634-BB81-B6AC-E37D4D93A0EC}|CdnFreelancerApi.csproj|d:\\flutter3x\\newbieguide\\cdn-freelancer-api\\models\\dtos\\registeruserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F9520B21-1634-BB81-B6AC-E37D4D93A0EC}|CdnFreelancerApi.csproj|solutionrelative:models\\dtos\\registeruserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9520B21-1634-BB81-B6AC-E37D4D93A0EC}|CdnFreelancerApi.csproj|c:\\users\\user\\cdnfreelancerapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F9520B21-1634-BB81-B6AC-E37D4D93A0EC}|CdnFreelancerApi.csproj|d:\\flutter3x\\newbieguide\\cdn-freelancer-api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F9520B21-1634-BB81-B6AC-E37D4D93A0EC}|CdnFreelancerApi.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9520B21-1634-BB81-B6AC-E37D4D93A0EC}|CdnFreelancerApi.csproj|c:\\users\\user\\cdnfreelancerapi\\models\\dtos\\changepassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F9520B21-1634-BB81-B6AC-E37D4D93A0EC}|CdnFreelancerApi.csproj|d:\\flutter3x\\newbieguide\\cdn-freelancer-api\\models\\dtos\\changepassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F9520B21-1634-BB81-B6AC-E37D4D93A0EC}|CdnFreelancerApi.csproj|solutionrelative:models\\dtos\\changepassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9520B21-1634-BB81-B6AC-E37D4D93A0EC}|CdnFreelancerApi.csproj|c:\\users\\user\\cdnfreelancerapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{F9520B21-1634-BB81-B6AC-E37D4D93A0EC}|CdnFreelancerApi.csproj|d:\\flutter3x\\newbieguide\\cdn-freelancer-api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{F9520B21-1634-BB81-B6AC-E37D4D93A0EC}|CdnFreelancerApi.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9520B21-1634-BB81-B6AC-E37D4D93A0EC}|CdnFreelancerApi.csproj|c:\\users\\user\\cdnfreelancerapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{F9520B21-1634-BB81-B6AC-E37D4D93A0EC}|CdnFreelancerApi.csproj|d:\\flutter3x\\newbieguide\\cdn-freelancer-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{F9520B21-1634-BB81-B6AC-E37D4D93A0EC}|CdnFreelancerApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9520B21-1634-BB81-B6AC-E37D4D93A0EC}|CdnFreelancerApi.csproj|c:\\users\\user\\cdnfreelancerapi\\cdnfreelancerapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{F9520B21-1634-BB81-B6AC-E37D4D93A0EC}|CdnFreelancerApi.csproj|d:\\flutter3x\\newbieguide\\cdn-freelancer-api\\cdnfreelancerapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{F9520B21-1634-BB81-B6AC-E37D4D93A0EC}|CdnFreelancerApi.csproj|solutionrelative:cdnfreelancerapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9520B21-1634-BB81-B6AC-E37D4D93A0EC}|CdnFreelancerApi.csproj|c:\\users\\user\\cdnfreelancerapi\\cdnfreelancerapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "AbsoluteMoniker": "D:0:0:{F9520B21-1634-BB81-B6AC-E37D4D93A0EC}|CdnFreelancerApi.csproj|d:\\flutter3x\\newbieguide\\cdn-freelancer-api\\cdnfreelancerapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{F9520B21-1634-BB81-B6AC-E37D4D93A0EC}|CdnFreelancerApi.csproj|solutionrelative:cdnfreelancerapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9520B21-1634-BB81-B6AC-E37D4D93A0EC}|CdnFreelancerApi.csproj|c:\\users\\user\\cdnfreelancerapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{F9520B21-1634-BB81-B6AC-E37D4D93A0EC}|CdnFreelancerApi.csproj|d:\\flutter3x\\newbieguide\\cdn-freelancer-api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{F9520B21-1634-BB81-B6AC-E37D4D93A0EC}|CdnFreelancerApi.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
@@ -62,27 +66,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UserDto.cs",
-              "DocumentMoniker": "C:\\Users\\User\\CdnFreelancerApi\\Models\\DTOs\\UserDto.cs",
-              "RelativeDocumentMoniker": "Models\\DTOs\\UserDto.cs",
-              "ToolTip": "C:\\Users\\User\\CdnFreelancerApi\\Models\\DTOs\\UserDto.cs",
-              "RelativeToolTip": "Models\\DTOs\\UserDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T16:53:15.181Z"
+              "DocumentIndex": 1,
+              "Title": "README.md",
+              "DocumentMoniker": "D:\\flutter3x\\NewbieGuide\\cdn-freelancer-api\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "D:\\flutter3x\\NewbieGuide\\cdn-freelancer-api\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-02-26T14:55:05.444Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "ChangePasswordDto.cs",
-              "DocumentMoniker": "C:\\Users\\User\\CdnFreelancerApi\\Models\\DTOs\\ChangePasswordDto.cs",
+              "DocumentMoniker": "D:\\flutter3x\\NewbieGuide\\cdn-freelancer-api\\Models\\DTOs\\ChangePasswordDto.cs",
               "RelativeDocumentMoniker": "Models\\DTOs\\ChangePasswordDto.cs",
-              "ToolTip": "C:\\Users\\User\\CdnFreelancerApi\\Models\\DTOs\\ChangePasswordDto.cs",
+              "ToolTip": "D:\\flutter3x\\NewbieGuide\\cdn-freelancer-api\\Models\\DTOs\\ChangePasswordDto.cs",
               "RelativeToolTip": "Models\\DTOs\\ChangePasswordDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -90,11 +95,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "UpdateUserDto.cs",
-              "DocumentMoniker": "C:\\Users\\User\\CdnFreelancerApi\\Models\\DTOs\\UpdateUserDto.cs",
+              "DocumentMoniker": "D:\\flutter3x\\NewbieGuide\\cdn-freelancer-api\\Models\\DTOs\\UpdateUserDto.cs",
               "RelativeDocumentMoniker": "Models\\DTOs\\UpdateUserDto.cs",
-              "ToolTip": "C:\\Users\\User\\CdnFreelancerApi\\Models\\DTOs\\UpdateUserDto.cs",
+              "ToolTip": "D:\\flutter3x\\NewbieGuide\\cdn-freelancer-api\\Models\\DTOs\\UpdateUserDto.cs",
               "RelativeToolTip": "Models\\DTOs\\UpdateUserDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -102,11 +107,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "RegisterUserDto.cs",
-              "DocumentMoniker": "C:\\Users\\User\\CdnFreelancerApi\\Models\\DTOs\\RegisterUserDto.cs",
+              "DocumentMoniker": "D:\\flutter3x\\NewbieGuide\\cdn-freelancer-api\\Models\\DTOs\\RegisterUserDto.cs",
               "RelativeDocumentMoniker": "Models\\DTOs\\RegisterUserDto.cs",
-              "ToolTip": "C:\\Users\\User\\CdnFreelancerApi\\Models\\DTOs\\RegisterUserDto.cs",
+              "ToolTip": "D:\\flutter3x\\NewbieGuide\\cdn-freelancer-api\\Models\\DTOs\\RegisterUserDto.cs",
               "RelativeToolTip": "Models\\DTOs\\RegisterUserDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -114,11 +119,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\User\\CdnFreelancerApi\\Properties\\launchSettings.json",
+              "DocumentMoniker": "D:\\flutter3x\\NewbieGuide\\cdn-freelancer-api\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\User\\CdnFreelancerApi\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\flutter3x\\NewbieGuide\\cdn-freelancer-api\\Properties\\launchSettings.json",
               "RelativeToolTip": "Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -126,37 +131,36 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "UsersController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\CdnFreelancerApi\\Controllers\\UsersController.cs",
+              "DocumentMoniker": "D:\\flutter3x\\NewbieGuide\\cdn-freelancer-api\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
-              "ToolTip": "C:\\Users\\User\\CdnFreelancerApi\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\flutter3x\\NewbieGuide\\cdn-freelancer-api\\Controllers\\UsersController.cs",
               "RelativeToolTip": "Controllers\\UsersController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAM8AAAAAAAAAAAAmwOcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-25T09:31:28.956Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\User\\CdnFreelancerApi\\Models\\User.cs",
+              "DocumentMoniker": "D:\\flutter3x\\NewbieGuide\\cdn-freelancer-api\\Models\\User.cs",
               "RelativeDocumentMoniker": "Models\\User.cs",
-              "ToolTip": "C:\\Users\\User\\CdnFreelancerApi\\Models\\User.cs",
+              "ToolTip": "D:\\flutter3x\\NewbieGuide\\cdn-freelancer-api\\Models\\User.cs",
               "RelativeToolTip": "Models\\User.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAgwB4AAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T09:04:52.436Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-25T09:04:52.436Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "CdnFreelancerApi.csproj",
-              "DocumentMoniker": "C:\\Users\\User\\CdnFreelancerApi\\CdnFreelancerApi.csproj",
+              "DocumentMoniker": "D:\\flutter3x\\NewbieGuide\\cdn-freelancer-api\\CdnFreelancerApi.csproj",
               "RelativeDocumentMoniker": "CdnFreelancerApi.csproj",
-              "ToolTip": "C:\\Users\\User\\CdnFreelancerApi\\CdnFreelancerApi.csproj",
+              "ToolTip": "D:\\flutter3x\\NewbieGuide\\cdn-freelancer-api\\CdnFreelancerApi.csproj",
               "RelativeToolTip": "CdnFreelancerApi.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -164,11 +168,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\User\\CdnFreelancerApi\\Data\\ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\flutter3x\\NewbieGuide\\cdn-freelancer-api\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\User\\CdnFreelancerApi\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\flutter3x\\NewbieGuide\\cdn-freelancer-api\\Data\\ApplicationDbContext.cs",
               "RelativeToolTip": "Data\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -176,24 +180,36 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\User\\CdnFreelancerApi\\Program.cs",
+              "DocumentMoniker": "D:\\flutter3x\\NewbieGuide\\cdn-freelancer-api\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\User\\CdnFreelancerApi\\Program.cs",
+              "ToolTip": "D:\\flutter3x\\NewbieGuide\\cdn-freelancer-api\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-25T08:51:14.709Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 4,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "D:\\flutter3x\\NewbieGuide\\cdn-freelancer-api\\Models\\DTOs\\UserDto.cs",
+              "RelativeDocumentMoniker": "Models\\DTOs\\UserDto.cs",
+              "ToolTip": "D:\\flutter3x\\NewbieGuide\\cdn-freelancer-api\\Models\\DTOs\\UserDto.cs",
+              "RelativeToolTip": "Models\\DTOs\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T16:53:15.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\User\\CdnFreelancerApi\\appsettings.Development.json",
+              "DocumentMoniker": "D:\\flutter3x\\NewbieGuide\\cdn-freelancer-api\\appsettings.Development.json",
               "RelativeDocumentMoniker": "appsettings.Development.json",
-              "ToolTip": "C:\\Users\\User\\CdnFreelancerApi\\appsettings.Development.json",
+              "ToolTip": "D:\\flutter3x\\NewbieGuide\\cdn-freelancer-api\\appsettings.Development.json",
               "RelativeToolTip": "appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -201,22 +217,22 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "CdnFreelancerApi",
-              "DocumentMoniker": "C:\\Users\\User\\CdnFreelancerApi\\CdnFreelancerApi.csproj",
+              "DocumentMoniker": "D:\\flutter3x\\NewbieGuide\\cdn-freelancer-api\\CdnFreelancerApi.csproj",
               "RelativeDocumentMoniker": "CdnFreelancerApi.csproj",
-              "ToolTip": "C:\\Users\\User\\CdnFreelancerApi\\CdnFreelancerApi.csproj",
+              "ToolTip": "D:\\flutter3x\\NewbieGuide\\cdn-freelancer-api\\CdnFreelancerApi.csproj",
               "RelativeToolTip": "CdnFreelancerApi.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-02-24T16:30:44.09Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\User\\CdnFreelancerApi\\appsettings.json",
+              "DocumentMoniker": "D:\\flutter3x\\NewbieGuide\\cdn-freelancer-api\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\User\\CdnFreelancerApi\\appsettings.json",
+              "ToolTip": "D:\\flutter3x\\NewbieGuide\\cdn-freelancer-api\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",

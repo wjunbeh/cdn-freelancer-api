@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\CdnFreelancerApi\\CdnFreelancerApi.csproj": {}
+    "D:\\flutter3x\\NewbieGuide\\cdn-freelancer-api\\CdnFreelancerApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\CdnFreelancerApi\\CdnFreelancerApi.csproj": {
+    "D:\\flutter3x\\NewbieGuide\\cdn-freelancer-api\\CdnFreelancerApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\CdnFreelancerApi\\CdnFreelancerApi.csproj",
+        "projectUniqueName": "D:\\flutter3x\\NewbieGuide\\cdn-freelancer-api\\CdnFreelancerApi.csproj",
         "projectName": "CdnFreelancerApi",
-        "projectPath": "C:\\Users\\User\\CdnFreelancerApi\\CdnFreelancerApi.csproj",
+        "projectPath": "D:\\flutter3x\\NewbieGuide\\cdn-freelancer-api\\CdnFreelancerApi.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\CdnFreelancerApi\\obj\\",
+        "outputPath": "D:\\flutter3x\\NewbieGuide\\cdn-freelancer-api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

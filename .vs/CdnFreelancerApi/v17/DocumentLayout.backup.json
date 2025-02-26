@@ -7,16 +7,20 @@
       "RelativeMoniker": "D:0:0:{F9520B21-1634-BB81-B6AC-E37D4D93A0EC}|CdnFreelancerApi.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{F9520B21-1634-BB81-B6AC-E37D4D93A0EC}|CdnFreelancerApi.csproj|c:\\users\\user\\cdnfreelancerapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9520B21-1634-BB81-B6AC-E37D4D93A0EC}|CdnFreelancerApi.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9520B21-1634-BB81-B6AC-E37D4D93A0EC}|CdnFreelancerApi.csproj|c:\\users\\user\\cdnfreelancerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9520B21-1634-BB81-B6AC-E37D4D93A0EC}|CdnFreelancerApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F9520B21-1634-BB81-B6AC-E37D4D93A0EC}|CdnFreelancerApi.csproj|c:\\users\\user\\cdnfreelancerapi\\models\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F9520B21-1634-BB81-B6AC-E37D4D93A0EC}|CdnFreelancerApi.csproj|solutionrelative:models\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F9520B21-1634-BB81-B6AC-E37D4D93A0EC}|CdnFreelancerApi.csproj|c:\\users\\user\\cdnfreelancerapi\\models\\dtos\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F9520B21-1634-BB81-B6AC-E37D4D93A0EC}|CdnFreelancerApi.csproj|solutionrelative:models\\dtos\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9520B21-1634-BB81-B6AC-E37D4D93A0EC}|CdnFreelancerApi.csproj|c:\\users\\user\\cdnfreelancerapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9520B21-1634-BB81-B6AC-E37D4D93A0EC}|CdnFreelancerApi.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F9520B21-1634-BB81-B6AC-E37D4D93A0EC}|CdnFreelancerApi.csproj|c:\\users\\user\\cdnfreelancerapi\\models\\dtos\\registeruserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,10 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F9520B21-1634-BB81-B6AC-E37D4D93A0EC}|CdnFreelancerApi.csproj|c:\\users\\user\\cdnfreelancerapi\\models\\dtos\\changepassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F9520B21-1634-BB81-B6AC-E37D4D93A0EC}|CdnFreelancerApi.csproj|solutionrelative:models\\dtos\\changepassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9520B21-1634-BB81-B6AC-E37D4D93A0EC}|CdnFreelancerApi.csproj|c:\\users\\user\\cdnfreelancerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9520B21-1634-BB81-B6AC-E37D4D93A0EC}|CdnFreelancerApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F9520B21-1634-BB81-B6AC-E37D4D93A0EC}|CdnFreelancerApi.csproj|c:\\users\\user\\cdnfreelancerapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -66,7 +66,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "UserDto.cs",
               "DocumentMoniker": "C:\\Users\\User\\CdnFreelancerApi\\Models\\DTOs\\UserDto.cs",
               "RelativeDocumentMoniker": "Models\\DTOs\\UserDto.cs",
@@ -74,12 +74,11 @@
               "RelativeToolTip": "Models\\DTOs\\UserDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T16:53:15.181Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-25T16:53:15.181Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "ChangePasswordDto.cs",
               "DocumentMoniker": "C:\\Users\\User\\CdnFreelancerApi\\Models\\DTOs\\ChangePasswordDto.cs",
               "RelativeDocumentMoniker": "Models\\DTOs\\ChangePasswordDto.cs",
@@ -87,12 +86,11 @@
               "RelativeToolTip": "Models\\DTOs\\ChangePasswordDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T16:27:21.749Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-25T16:27:21.749Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "UpdateUserDto.cs",
               "DocumentMoniker": "C:\\Users\\User\\CdnFreelancerApi\\Models\\DTOs\\UpdateUserDto.cs",
               "RelativeDocumentMoniker": "Models\\DTOs\\UpdateUserDto.cs",
@@ -100,12 +98,11 @@
               "RelativeToolTip": "Models\\DTOs\\UpdateUserDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T16:17:14.495Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-25T16:17:14.495Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "RegisterUserDto.cs",
               "DocumentMoniker": "C:\\Users\\User\\CdnFreelancerApi\\Models\\DTOs\\RegisterUserDto.cs",
               "RelativeDocumentMoniker": "Models\\DTOs\\RegisterUserDto.cs",
@@ -113,8 +110,7 @@
               "RelativeToolTip": "Models\\DTOs\\RegisterUserDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T16:02:50.525Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-25T16:02:50.525Z"
             },
             {
               "$type": "Document",
@@ -126,8 +122,7 @@
               "RelativeToolTip": "Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-25T13:54:11.439Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-25T13:54:11.439Z"
             },
             {
               "$type": "Document",
@@ -137,14 +132,14 @@
               "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
               "ToolTip": "C:\\Users\\User\\CdnFreelancerApi\\Controllers\\UsersController.cs",
               "RelativeToolTip": "Controllers\\UsersController.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAowDAAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-25T09:31:28.956Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\User\\CdnFreelancerApi\\Models\\User.cs",
               "RelativeDocumentMoniker": "Models\\User.cs",
@@ -169,7 +164,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\User\\CdnFreelancerApi\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
@@ -177,18 +172,17 @@
               "RelativeToolTip": "Data\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T09:01:41.373Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-25T09:01:41.373Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\CdnFreelancerApi\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\User\\CdnFreelancerApi\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-25T08:51:14.709Z",
               "EditorCaption": ""
@@ -226,8 +220,7 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-24T16:30:24.307Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-24T16:30:24.307Z"
             }
           ]
         }
